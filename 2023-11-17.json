@@ -1,0 +1,26 @@
+{
+  "name": "Francis Potter",
+  "age": 31,
+  "address": {
+    "street": "Roro Point",
+    "city": "Bumhuvtis",
+    "state": "TN",
+    "zip": "58140"
+  },
+  "contact": {
+    "phone": "(951) 848-1017",
+    "servicePhone": "800115814"
+  },
+  "birthday": "1983-05-09T12:35:56.096Z",
+  "ip": "207.89.33.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Je pilec viblet te nu aj oka izi tem nawseej vefrivzof tefzumo atbahev cib sipoza habonfe van mev. Dezbineh to hicsijrow colazocun ki peksucra tikjiimo voene gefbosuv fev na olicu zih baz epniglos tetwebna cildur. Jede ji ewa ma mazrepate pat bozzejfu voso hih ujivo uzisapoku lig.",
+    "bio": "Vucov rahvunca weujiju adacif uciboru cufsosnaw ejo hi osaunudi titma fewpe hareh. Sevjafze cavasoku gocgo nofni tuvanigod bikfalhi toran virras igena ronomar zodalkud taahaap. Wek gubmuj ewsacso cemu kib tod fisiva po uvresri mulre abodegco iccir zempev acuken fevuji. Sid badvi gam duh tabuzo kigoic hi gazupi julpeju ifbam dalzigal uv coho pa of vezzob. Goplarut cur seabumup ezirve he puj hali luzammi habse an tiwir ocpe vuptucmun. Ago ivlirnik nulo ti izurubag be erukesusi ko ca kadvejsu sil hegcip wefi jek gad. Corowna kate geojkom kil vig guz adwitew kakatre joifu fugefbu pokpo saic."
+  },
+  "apiKey": "21728db037fb0622ea5017bc305add8aeab429781d9d2c53885d73467e80a3fb",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
