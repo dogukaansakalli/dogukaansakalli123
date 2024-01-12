@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Green",
+  "age": 37,
+  "address": {
+    "street": "Ijuja Boulevard",
+    "city": "Makueb",
+    "state": "MT",
+    "zip": "89395"
+  },
+  "contact": {
+    "phone": "(456) 643-1297",
+    "servicePhone": "800959216"
+  },
+  "birthday": "1984-09-01T01:10:13.803Z",
+  "ip": "7.136.113.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki so fajifa hifek uzeed emiihuhug loleit ividze fuhgojof upho fah afkerwo. Le het dojgipi feur oz cisowa hi guaje veb mos jomjiufe ijudi fekka curbuno. Hicen jarserva ufosom pot esojahip sesaf fiami taf ca em nece pa. Oc zekdatka fe zente ezicow cududge wahek fe vusigamo al wepaar focbozwo hirnuha eh.",
+    "bio": "Umocaf fi feuma seg ganlow ove hupra enugi maj lewjewleg wupzenbuc lorone suz des kow su viduhela aminup. Emupasa tinfo rermi id as jubruhlo lipenega uga jubersa iru mus da oz nimdeme wapelo ukige jooca. Uci dir gokvohnu awsu kune la tovat zezpejuf peropta lokad enaba it. Uswuf jibiriap tecof anani teesfob ven ub liftin vufizjap hesiwhem oto izmer esiibi fivvup lezvudop. Uru kaat kidimaz boewbuh veki ke laliwizi zufcirfu haug ezijabapa emoovufa kecavno zufhi mi keogoj kaalu cefzep lo. Ufeje jespugad unu uflikkac da maog zaruwmo zolozbi hazu rousuga ekpuvaw havuiz kuble. Ritbuc ev ojo hion newvov gi lascilid tajep ovuecbe suepco ni lapeor kunub sepotar etiovav."
+  },
+  "apiKey": "400233047bed5b1cdd0c2ea44a9cf0e15fe2ddcae2296a46da7c1f0ff7ef76a1",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
