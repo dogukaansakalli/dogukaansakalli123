@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Woods",
+  "age": 34,
+  "address": {
+    "street": "Afgo View",
+    "city": "Abuhikig",
+    "state": "NJ",
+    "zip": "12263"
+  },
+  "contact": {
+    "phone": "(556) 895-9557",
+    "servicePhone": "800568928"
+  },
+  "birthday": "1995-10-27T03:19:04.706Z",
+  "ip": "147.170.114.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Ik oguma wivvofroj utahogu icila vibud efsoah nunsobir mu dahuj masam lasso seladdo wenbolopa. Hihfo ujtal kud lob lozurvon mavoego voferem cofiok vodora nazdo guvu azeed va azzo miah ripohe succamvu. Afa natma behira huc kel ha tesuk mu riz joja fatsazwi vovfuf toduweba kahmi ruwej gah har fuamfol.",
+    "bio": "Sonroke wirleda wiwajlu ahale ig oge bete sulmi ot soc le upirodup uvi gi. Lenru ehsep di ucohe ze fatudgam lon gu pob jaojocu vaweno lozifwul ote ho cizat. Uluegno bonfa pealo zob nilpa vifpu hu pazavak capez efefif he ucivaf. Gulbozfap masopnoj fuloeri okititi doh gez eko amezav caleg boojum usijah ezomucaw en de vo. Rualzu aguwu ralraw zedtofzeb itoupa sivaj olu gucepfa uw obial bokbiiha wawbavno weafreb tiktaic ma. Juhlibid pe vukina sor su git jo tavnam tof efuvib vococet gewurmeb su ur lo bili po vi. Gitih ad zurhoz keospon vetilo ril siki jemacno vadop korug gin darajhef guvkab bijsot."
+  },
+  "apiKey": "3b1a484c0aff7232b25c0c4285b6a1775ad1043ff3c906a0e9f52ca4cc89bf3b",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
