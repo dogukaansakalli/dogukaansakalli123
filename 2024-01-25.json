@@ -1,0 +1,26 @@
+{
+  "name": "Betty Mendoza",
+  "age": 54,
+  "address": {
+    "street": "Hitpah Square",
+    "city": "Peccepan",
+    "state": "ID",
+    "zip": "57859"
+  },
+  "contact": {
+    "phone": "(506) 494-9395",
+    "servicePhone": "800921792"
+  },
+  "birthday": "2006-09-03T14:35:42.959Z",
+  "ip": "74.79.191.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Na fejut dono vo ohuku zurkapik ugje gamhew fuz raf ahpufasu picbiefi fi pa semvi. Virup dabfuw fuvone mumrac ipofic ka uzugosan guw uhlozaz id in puneha ivov nahnoci fosuza cumupgo. Eveik pamu calagmi ab zurwu raconofu wi digkojif ofike doguwjas edehoz sahvanoc aga halluele.",
+    "bio": "Rihnuddit oti do pucaej pagvovre za fakisic uteli icauvu ihteho fuku rifuon wir ozerpa kabesfid buc. Jaloggon ergo dojuk agu ide vezafpe cab fijapowo bilhefe bahosme zobpuezo tabiwi fa kip. Wokberho cefudzu uzufucuz iv oda sewfuob fivdac tim mibov lam ikasu inu pupile ahi na."
+  },
+  "apiKey": "0414e85c53957d05dca59d0d1a7f633bcbcd2a5d00e8251fa19c93c83835fe88",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
