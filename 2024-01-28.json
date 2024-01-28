@@ -1,0 +1,26 @@
+{
+  "name": "Edward Peterson",
+  "age": 22,
+  "address": {
+    "street": "Jewna Loop",
+    "city": "Hotninpu",
+    "state": "NM",
+    "zip": "87652"
+  },
+  "contact": {
+    "phone": "(452) 251-7569",
+    "servicePhone": "800984133"
+  },
+  "birthday": "1997-07-10T00:24:25.300Z",
+  "ip": "9.73.75.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziat wa ev ozo ziarfuj furepo baj ledasa iz vujjafuc ka pul uwavian tug. Movoba dutup ogi ruad witserge zah hulnouk osi em rezij ada safa butnapa fa gi omze lipep. Lukuf me mowgal taem fecwi afomef zafjek onununpaw tar jewodmo zabero pizna afemte ja.",
+    "bio": "Ebtizut tad paza cipi zamail duvjok kairimuk tofo cut amoefeged lufev hune nuju ku mes tajda rer ji. Ib jawohhi gi homrocob fo deathi dog ajausel ca fi hupzodtom ba wesmo imezi paj. Ogacec pidap jebtarrik coruk zer nuf ci pebguval ho kehokel ofuzidla ifja. Hop daju wocnu is soco evemi wis wop lelcoret onivizig wagi iwcimbo ole ro vuhe awi dasbebah."
+  },
+  "apiKey": "f372a1847e98347f82b9bfd924d93ab0352a50f72adaf39bee6f244ec92ee719",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
