@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Briggs",
+  "age": 48,
+  "address": {
+    "street": "Dethar Manor",
+    "city": "Tisvidak",
+    "state": "KY",
+    "zip": "57452"
+  },
+  "contact": {
+    "phone": "(378) 602-4468",
+    "servicePhone": "800974997"
+  },
+  "birthday": "1999-10-25T03:41:54.210Z",
+  "ip": "118.165.172.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuc wis obusalvik rag cur si re icisahan bulwul bo ika ca. Ziaf bavcef ero guobdeb huw bebumavuw nu mah pij hizlil nungen fiecipe vaj awo muj kovew madvo ruehupel. Hol alneana neztubo nefeaw pavtamcot vet kuduule er jo pi get vibapo libumol li jagbafla bufavas.",
+    "bio": "Dotberigo gobazder orowocjef fifo huludmop umba as er buhhudni ehwog ceela sinaofu. Gookic dac sefja jujidbud mik men jusez aje zib ri hofzehri nit wakenmaw hu kod wor teko fafoc. Ri oke zurnan letuhi ic dac wupit bamefa rub guwiotu be akdatva we ho mi omuefiozi geh na."
+  },
+  "apiKey": "88fd5c1e53b7b4402e2d85a8fc21285ea0236a9fcd9418122f09f23e1f186128",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
