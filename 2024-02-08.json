@@ -1,0 +1,26 @@
+{
+  "name": "Alex Simpson",
+  "age": 33,
+  "address": {
+    "street": "Gigon Street",
+    "city": "Teavuf",
+    "state": "SD",
+    "zip": "89729"
+  },
+  "contact": {
+    "phone": "(643) 732-7706",
+    "servicePhone": "800252179"
+  },
+  "birthday": "2002-11-20T13:02:44.687Z",
+  "ip": "142.35.155.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Nipwo rajaceav bosev tah deelise wumno omjid ik sor cimap firha av noc ismakzoj ho. Be wiz cisut ijub racaake susueve gajtuag mub mugoje hekronu begipu ruzaj. Ja lisvotsa ogo he vefnutkol sasfirrel ecra taj igojuda aphoc revser zoco. Jolfisum tidic zonebwev vucrej jac rulas punukesa foidri kofdires gi ge ge icbiave ameac unpevsuh. Moirreg coj movud enobil pul birlif lotwiv uc gifatvoj mizwib vom buhpuhga odi mom harir. Vujehpan ku fefluc uskog foubjej op diiptod hehbem juk conib giibo viluklob zavpucut omajat zukane malunur ja ot. Maaf az lujuro rehu miju re denewu socwu kujik okiri hiejuga deltelbu de duzjav obi ge dudgojseb togniwsuc.",
+    "bio": "Ez tokef ulo moz sibetta ha hawat bemeg nolocjih iteju konwajmip wisena vej paabumak nivof halsiofi wobcaece. Ropda zo cub homcak zo dew ripup ka du akor gam metu gedodo utje wi nuzbalu. Nuwa pi lu rizga cu fiokebu jo rebeg bilkad fitobi apbiwro esno cuz fewilli. Vur luhughe nop jur heh ersaheb sow netcu ze gag et feduih. Cazrapit zegfibo vacos babcicfok sa omoojiiso bowpebim hifre vauw pit koribe eda patcurju kevu basum. So erdic mateh kujita fug di ka uneefu lucufum ure zalim atufuf humfag."
+  },
+  "apiKey": "b0adea8824aa22bf650bb61922122441e5ca5cccfd698e6b5d676bee6accc56c",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
