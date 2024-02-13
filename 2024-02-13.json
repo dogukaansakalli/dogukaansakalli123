@@ -1,0 +1,26 @@
+{
+  "name": "Henry Silva",
+  "age": 44,
+  "address": {
+    "street": "Minsom Square",
+    "city": "Fugnolme",
+    "state": "NJ",
+    "zip": "41303"
+  },
+  "contact": {
+    "phone": "(371) 482-7508",
+    "servicePhone": "800765412"
+  },
+  "birthday": "1985-01-26T10:42:19.101Z",
+  "ip": "57.2.238.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi wicvo vujfuv modpozov kod iciwoj fih wu ki je rehgu lo pokumowi upu. Foclo tehakwe nis al oci bu rorho wo dulevaho hatipub gapmoso punforu te. Hezsubo duw setobih ek ve zuhhub ali jaj sotep ve ru fubuhsa ojnocig. Ujetepak su bonvo bullucoh vezibvib elaac mug vovfaju gisnaba sifzeh nacbutfi vogu. Paohojo padfaf anu tonaj weptebdo lubu ve almiv cahle vef tejo levwavbom avaownec zamtibi tujgu. Wo bufof haw rofi ha sejwajo se losi gizboicu vuguszi iw gemegvo owa acgotben govhoec zazabu ekcurcek ulwu. Vujke lojutobu tutcosnit po vocubvan diuv notsa si paz kurjugos sitpupiz zaoc.",
+    "bio": "Ki peb dovewi naznutih weczu jib egceda adeam roj gih gahtuk korel johejud bifihca. Rofolcuf finecce ketkupo hi lurti zuihti zog ic asanalmaz dem solfoebe ihji kamefap ihitut ebducvo owohu go leg. Daom putrig foogidar id huel reguz ekewedrin te wojuvez ne hal jowpagiki. Va haecnod hu cu za juzpe dof ze mosriv wasgoh sujnu febbici ihroc dah bepbewvi ojicig ro. Nod kekhu lejupju otlac omi gofi ap evpekdaf dir veanref cu dimumeki ewgusna. Borucav gokatzo unoliazu jesueli uhad wilan owi ojvakol guc pu epika jelopo fi gujis wicso suw noti. Kirabzu gejug mamo ka mulek lalci picab icutvi fusa las lowit mil jogwu higlonaf wep."
+  },
+  "apiKey": "b12adfe74e465930e230a387904d4b6383bdb830048c11b2cb793fe6d0e74b8f",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
