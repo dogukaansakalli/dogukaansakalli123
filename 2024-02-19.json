@@ -1,0 +1,26 @@
+{
+  "name": "Leo Chambers",
+  "age": 58,
+  "address": {
+    "street": "Tilgu Pass",
+    "city": "Ebdoce",
+    "state": "OK",
+    "zip": "05014"
+  },
+  "contact": {
+    "phone": "(356) 285-9482",
+    "servicePhone": "800973726"
+  },
+  "birthday": "1997-02-02T03:10:57.326Z",
+  "ip": "130.158.216.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Nume rujadcum doce ri cegono bicop binasev co daz ujvaku kum getecizu peitcew pef. Su cuwcowe valnebopo nu okhurde etimse anzoj penioj lande ijo go kowok kemansim sujom li wegivo anaam. Ruotto neeb arali ujosev mecroh cufdoc nadi cekte ihislim otazviw ovesimrim ci. He ga fedce votid so waapejuc nameg ufa vacibom offitow ala jursa da.",
+    "bio": "Ni puzas ludunduv luwhogoj hihselco mafino fib we suma fisji hehohur jigawjon hophoreh ugaja poptu te. Ag veese jopo gapsebzi lofluf fik upbaec sovovtuh sajel ka jebujo mucpu. Obbati nup mo veza iwinezpu abo adjoga guut pelmet antuh jupuj deditcal."
+  },
+  "apiKey": "82089b7e5c7f6464a2dc8fadef757e7d47c097e8c1926c52ea075831e4bb65af",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
