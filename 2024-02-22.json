@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Armstrong",
+  "age": 47,
+  "address": {
+    "street": "Ohsug Plaza",
+    "city": "Sevtacto",
+    "state": "ND",
+    "zip": "89094"
+  },
+  "contact": {
+    "phone": "(482) 634-1095",
+    "servicePhone": "800725542"
+  },
+  "birthday": "1967-06-21T14:00:40.646Z",
+  "ip": "21.9.243.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubi zoopevat mivsejhad pariwser ca ivananon zov oru ij fufte usosazar wunu. Fanpiow de cesna umvu wenjisa ufijeg dawsoh zuus dal bathujve cub hig. Mavucmip ra ewese dorizos nalbob rar fobpujma udees popworju wudri caslez hescu fudanetoc warcivtaw.",
+    "bio": "Mehiem ko fethim duh emizijut nij sa usete jiflev jizom osubape wi kuwosuelo us izaoc tis zahi. Evi co wape jifajija gizzohi fes sivpu takogif wunagjeg jagehohoj nu manfako ep neoce jebo sahipdad ugoocecu hazami. Lu udmowzes dacvoguw cumvop ehufa puri natsuznar gerriper zaz divworive zobdiv fut ucofedog lohpu od."
+  },
+  "apiKey": "8e69a87f8cbacd7cf7dd03ed48e17a5339c78053c55acd9912392b7b10ef65e6",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
