@@ -1,0 +1,26 @@
+{
+  "name": "George Jones",
+  "age": 37,
+  "address": {
+    "street": "Ermiw Pike",
+    "city": "Suawoud",
+    "state": "KY",
+    "zip": "87991"
+  },
+  "contact": {
+    "phone": "(384) 240-1270",
+    "servicePhone": "800574322"
+  },
+  "birthday": "1993-11-24T09:42:07.127Z",
+  "ip": "226.117.207.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Goc zir vag pukikce maw vigada lirsazpol ed lic zu ru teowo ek pilo. Legzud romcen pevzam bucaze ledif re doiwku tez apihef husob wudzaiji gi dafene bagdo reakgac nop fe. Eji huinwu biz vezamok rulkowe uj wempofogu opisuwer wibwuw urdumcoj roc fonuvo ni.",
+    "bio": "Diw urieba pen pa fupvuoto verula suw wihkimju mawez pasabko deega oduheige fowhectep. Sunegvu zi mi tej rul ku cakfensad fihwoz wuclo jikvouvu hu jarbih lecezuno cicvoz. Cauhibel udnon nodwe kafna to ugukollun gikurgip gemah vowfasso eltu hissevli uzi zekek. Te ubu huigcu eg emne gigu tufvi ha zoswapto jiwzaata ziwosi savoh cujlostul hoozlu vif kutem ajosahi."
+  },
+  "apiKey": "c987cbc7b017522655b7b7756414d125adf3ed4777d345fe667b449aa51088fa",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
