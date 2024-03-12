@@ -1,0 +1,26 @@
+{
+  "name": "Alan Freeman",
+  "age": 45,
+  "address": {
+    "street": "Reiwi Square",
+    "city": "Uneaniwoj",
+    "state": "NH",
+    "zip": "76736"
+  },
+  "contact": {
+    "phone": "(458) 639-3463",
+    "servicePhone": "800398576"
+  },
+  "birthday": "1981-01-07T18:52:06.816Z",
+  "ip": "122.156.32.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Kug geskawen ij nejvak adi dojgipluf odikubaw uka anireoni bilaaz ricowitap veno hof ri cu. Lukelebi gecaz sauvamo fita kiw di jem ane wil erevatune nan coj tibnaeja za. Gozuh deddaj iceka ehoisoig moce zasem piwem revuba cizece tofih luvkaz ah wu bubtaim osodosec. Tezato zugufsid dopsan zokwevdi kulhapun wakdagova ponekew vawmos duldel nucigluz poffe woluec eso.",
+    "bio": "Rir jamenol jevlon hicno wizfitim ojuriwaj isa heak zol fito je ra. Luwilu venuj gu tapkevhim ca ujifojvit redugni upucumin obubfe ib matico le de dimpodfij du. Ummo voardu peshoka lirir naj duzmokedu bugta tudifane opo gaos pep zapocce zugim hi epinuzwup toweowa."
+  },
+  "apiKey": "b4609f66530274c2a60361567e38d643a57a888192efdf26c9e75def11b18891",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
