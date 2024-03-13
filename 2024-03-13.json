@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Page",
+  "age": 19,
+  "address": {
+    "street": "Memnis Grove",
+    "city": "Jigavla",
+    "state": "TX",
+    "zip": "97026"
+  },
+  "contact": {
+    "phone": "(456) 493-3044",
+    "servicePhone": "800111353"
+  },
+  "birthday": "1983-06-22T11:09:58.789Z",
+  "ip": "9.152.186.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Gatjiwef vic mor meaduduj nujaku ne hincu pubirbu ezoku goj dusi luzo tis radouve gitvaf mogve zefbolgav. Iro fukuis aso ten wu weji wis icesishac bet wistov fijkocuk rup zeh coccicuz be bakjiko. Jotoni gechi avegahik moluw nen luf sivlocas fim zadoelu degukocu wehum gohgawpo ha tusucu rovet leflo ujrew. Peh obus wuuf hihbekib sicpi komaow tezeh levigvef igana revo wotopar uz fec opofo. Obobovsuk aze na baceduj pu cozalbu rakog wagemrun ug ifasobruv obfo ettul epnak.",
+    "bio": "Waaw romrevha vavka imni eriotuja rucoj vib lob ij cakzek cavpobzi golapwu puclu sesmi ub. Me liciz tejzoga fiecasif omfeko siomeloz bi pu rujeege bigig suwogle jogagom pi mejo. Is igauka wubised marjeca kelni sivowi mef hip bahbeud wuj laucego fo ve nide osle kil ro penicaz. Hu noh adauze vibnoap demako gajag gutif tega nogo vehisvi fe wuni unuugu buavzaj."
+  },
+  "apiKey": "de6560e75c44874118d1e2054796bbe9d3a3c132e1cc399460d42c0902bb0558",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
