@@ -1,0 +1,26 @@
+{
+  "name": "Luke Cross",
+  "age": 25,
+  "address": {
+    "street": "Fugu Ridge",
+    "city": "Matepoc",
+    "state": "AZ",
+    "zip": "44870"
+  },
+  "contact": {
+    "phone": "(618) 226-9865",
+    "servicePhone": "800479954"
+  },
+  "birthday": "1971-08-07T03:08:48.443Z",
+  "ip": "3.255.244.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Zales dira woitolu vi nofkuuw jemcih zisi wuw veghivik ak jahijji iho. Fo ke orji rocugo kuwidmap sufajaali opo wikahebi kucumwa haub tuaho map gocdicte. Cileeke pez meklafi juzpiru cupwagiz riw gonwa jiv silseos iwe woldejun zufjaiho bisujug ituvouva cum hetasoz.",
+    "bio": "Zupdow rapzon ma bodbetsof hipale woure vu seini pofosuvi vilbiwudu uchiz mo cibufojeg hi. Calpeshig isivevet tiw wet radrog dewudo metbod lisha lu ruvdo lakuce piastah vo. Ocahit emowazaj ton pov muv ismizev sanat na fiik nasop cesu wofpeaf koscofo rosgi. Ji rahwu we iz doziaba debive dalhug gekvij er asju gu le guttul."
+  },
+  "apiKey": "e8bd8a718ecf3a1f60015fd152b7281f49c596ed14939d667fdac535d59ce2c9",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
