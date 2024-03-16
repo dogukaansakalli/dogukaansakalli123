@@ -1,0 +1,26 @@
+{
+  "name": "Jane Morton",
+  "age": 36,
+  "address": {
+    "street": "Bizu Plaza",
+    "city": "Metowje",
+    "state": "OK",
+    "zip": "75179"
+  },
+  "contact": {
+    "phone": "(741) 673-1744",
+    "servicePhone": "800775259"
+  },
+  "birthday": "2000-12-25T12:40:40.349Z",
+  "ip": "207.95.137.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Cud vaikum umida huz mohho egbevu goz okhutger ho zoitzi fu verzir fimalput sec vi ul wamoric kosevmil. Wap ja gaajjec detan jepkujec da tucvir dudahove ebuer kugcekur rudhoop bivrif pajdat nadces uva pacu biw. Hifiso eze weoki duwditceb ur moocaud rut oju lesuhnak sanhife paje atiwec rekem hagma jisadaf raemhec ajjena ve. Pi ugeci wes keonuvom sunadow nowli da vi ab modo maso zozeval ugafi cegnacmaz zenvire ga.",
+    "bio": "Mul pi taf fu cekkedim to fagdusaca teteis jezsosnit rug socuwam luet atomimkez puji. Lo koozura bibu ce wowvuib rifakvug uhebihok suab ikoju vehicej omruz rej zek divec susefik perik. Ceg imruwno ahoihku memo ebiebevo jebezev kafogpuv iruzapob fiz dawgefsa ipceloge pe toz. Pin fadtaj weboco zok ekupi we bukem mipgim mugi weeswek socajak mijofed. Wuv nivnidar sokbe vaffobja lip vivfekra na falpotwu ulooja luizzi baknadu aje uzedejpi lussopbe tazalos."
+  },
+  "apiKey": "ba85b5cfb39e71f7bdc501c130e499277e35d2b7303fe2bd401b0a8ffae0dd32",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
