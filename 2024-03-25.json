@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Hart",
+  "age": 48,
+  "address": {
+    "street": "Wezmu Junction",
+    "city": "Agwopu",
+    "state": "GA",
+    "zip": "48513"
+  },
+  "contact": {
+    "phone": "(415) 337-2564",
+    "servicePhone": "800619797"
+  },
+  "birthday": "1959-09-12T14:40:18.751Z",
+  "ip": "63.10.53.172",
+  "foo": "bar",
+  "profile": {
+    "about": "It zolju wahe jo tivanu co lam puwopudib zul kegubes luv unoalvi sivpa vazzuab. Favran hanom cav longolem fohodu pegarihuz moapa oshabuz akmo foncaz hivkem dac hopbefo ge dapfon ul walina sube. Be ohuafus hobwezuc bi kez eki osa puni gaj obewi nog da nepihsip tesge.",
+    "bio": "Wobitir veseg zegu ut vevumgac ej pu ihcegu wa zikveb okovele bu ek emfonna likutsin jez. Ninjaz uwa cen piuvo kapa odeuwati wavakip dulteglu zeje ir fu ziv vuce mohleez gem jeh. Mo lo bij hemtiv bet saabe emona leslalco mipwebpan pigaci rebpak ru nomfe of. Eh ze ti cebed nopani uhuini fouzba je fa vuuc fuwaru upjo fifogiof we nolmukze rujfut ze lozilka. Jewa jo unwipsip hohag erap subisefe jeco geune vaj tawi umalub ci deznoer ja cu ci."
+  },
+  "apiKey": "6e75bb2e8c157b806a65f372b565cf8ecd129e74969c3db9a9c27f189b74c61c",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
